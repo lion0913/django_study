@@ -1,0 +1,10 @@
+venv/
+.idea/
+db.sqlite3
+mysite/settings.py
+ 
+# temporary files
+*.log
+*.pot
+*.pyc
+__pycache__/
