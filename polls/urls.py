@@ -2,6 +2,7 @@ from django.urls import path
 
 from . import views
 
+app_name = 'polls'
 urlpatterns = [
     # polls안에서의  path가 없다는 뜻
     # /polls/
